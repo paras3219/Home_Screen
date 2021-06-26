@@ -1,0 +1,27 @@
+/*-------font-family: Potta_One-------*/
+
+@font-face{
+    font-family: Potta_One;
+    src: url('../fonts/Potta_One/PottaOne-Regular.ttf');
+}
+
+/*-------font-family: Heebo-------*/
+
+@font-face{
+    font-family: Heebo;
+    src: url('../fonts/Heebo/Heebo-VariableFont_wght.ttf');
+}
+
+/*-------font-family: Roboto-------*/
+
+@font-face{
+    font-family: Roboto;
+    src: url('../fonts/Roboto/Roboto-Regular.ttf');
+}
+
+/*-------font-family: Yusei_Magic-------*/
+
+@font-face{
+    font-family: Yusei_Magic;
+    src: url('../fonts/Yusei_Magic/YuseiMagic-Regular.ttf');
+}
